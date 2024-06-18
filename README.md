@@ -5,7 +5,7 @@ Atliq Grands owns multiple five-star hotels across India. They have been in the 
 Their revenue management team had decided to hire a 3rd party service provider to provide them insights from their historical data.
 # Learned things from this Project
 Using Python and the pandas module, our project involves conducting thorough exploratory data analysis. This includes gaining a deep understanding of the data, collecting relevant information, cleaning to ensure accuracy, transforming for better insights, and generating meaningful conclusions."
-# Some important insights from the dashboard
+# Some important insights
 - Mumbai generates the highest revenue (669 M), followed by Bangalore, Hyderabad, and Delhi.
 - AtliQ Exotica performs better compared to all 7 types of properties with 320 million revenue, a rating of 3.62, an occupancy percentage of 57, and a cancellation rate of 24.4%.
 - AtliQ Bay has the highest occupancy at 66%.
